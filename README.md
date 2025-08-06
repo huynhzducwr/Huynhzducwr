@@ -117,9 +117,6 @@ I'm a software engineering student passionate about fullstack web development, e
 - ✅ Integrated a shopping cart system using LocalStorage for a seamless client-side experience.  
 - ✅ Implemented demo online payment via Momo API.  
 - ✅ Developed login & account update features; tested endpoints via Swagger.
-## 📷 UI Preview
-https://github.com/huynhzducwr/Huynhzducwr/issues/3#issue-3295478629
-
 ## 📫 Connect with me
 
 <div align="center">
