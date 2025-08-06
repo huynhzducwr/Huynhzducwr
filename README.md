@@ -118,7 +118,7 @@ I'm a software engineering student passionate about fullstack web development, e
 - ✅ Implemented demo online payment via Momo API.  
 - ✅ Developed login & account update features; tested endpoints via Swagger.
 ## 📷 UI Preview
-><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11d71fa4-5793-4984-adef-a02d387c69cd" />
+
 
 ## 📫 Connect with me
 
