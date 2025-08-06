@@ -94,13 +94,31 @@ I'm a software engineering student passionate about fullstack web development, e
 ## 🌟 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/huynhzducwr/GymSport">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhzducwr&repo=GymSport&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  </a>
-  <a href="https://github.com/huynhzducwr/Lavender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhzducwr&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  </a>
+  <h1>🏋️ GymSport E-commerce Website</h1>
+  <p><strong>Role:</strong> Fullstack Developer</p>
+  <p><strong>Duration:</strong> 05/2025</p>
 </div>
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** ASP.NET Core Web API, ADO.NET, Entity Framework Core  
+- **Frontend:** HTML/CSS/JS, LocalStorage  
+- **Database:** SQL Server  
+- **API & Tools:** Momo Payment API, Swagger  
+
+---
+
+## 💡 Key Features
+
+- ✅ Developed a full-stack e-commerce platform for selling sportswear and accessories.  
+- ✅ Designed and implemented database-driven modules: product management, user accounts, order processing, and payments.  
+- ✅ Built RESTful APIs using ADO.NET and EF Core to enable client-server communication.  
+- ✅ Integrated a shopping cart system using LocalStorage for a seamless client-side experience.  
+- ✅ Implemented demo online payment via Momo API.  
+- ✅ Developed login & account update features; tested endpoints via Swagger.
+## 📷 UI Preview
+><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11d71fa4-5793-4984-adef-a02d387c69cd" />
 
 ## 📫 Connect with me
 
